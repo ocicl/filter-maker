@@ -1,0 +1,10 @@
+* filter-maker
+
+CLIM program for letting users make filters out of predicates and keys.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/johnlorentzson/filter-maker.git   |
+| commit  | abb7151  |
+| systems | filter-maker |
+|---------+-------------------------------------------|
+
